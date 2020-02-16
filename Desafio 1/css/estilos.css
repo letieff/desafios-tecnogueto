@@ -1,0 +1,61 @@
+.pagebg {
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+  }
+  
+  body {
+    background-color: #f5f7fa;
+    padding-top: 120px;
+    height: 870px;
+  }
+  
+  #man { 
+    width: 50%;
+    box-shadow: 0 5px 10px 0 #cccc;
+  }
+  
+  #testimonialbg { 
+    width: 50%;
+    float: right;
+    background-color: white;
+    padding-top: 62px;
+    box-shadow: 0 5px 10px 0 #cccc;
+  }
+  
+  #aspas {
+    width: 111px;
+    height: 90px;
+    padding-left: 48px;
+  }
+  
+  #it-really-saves {
+    font-family: 'Playfair Display', serif;  /* Muito boooom! */
+    font-size: 28px;
+    text-align: left;
+    letter-spacing: normal;
+    color: #727278;
+    line-height: 1.79;
+    padding-left: 48px;
+    padding-right: 48px;
+    
+  }
+  
+  #alex-parkinson {
+    font-family: 'Rubik', sans-serif;
+    font-size: 26px;
+    text-align: left;
+    color: #373742;
+    padding-top: 30px;
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+  
+  #google { 
+    width: 118px;
+    height: 40px;
+    opacity: 0.5;
+    padding-left: 48px;
+    padding-bottom: 30px;
+  }
