@@ -1,0 +1,95 @@
+#pagebg {
+    width: 1440px;
+    height: 870px;
+    background-color: #f2f7ff;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.testimonials {
+    width: 540px;
+    height: 618px;
+    border-radius: 20px;
+    box-shadow: 0 16px 32px 0 rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    margin-right: 30px;
+    margin-top: 136px;
+    position: relative;
+}
+
+.textos {
+    width: 428px;
+    height: 184px;
+    font-family: 'Rubik';
+    font-size: 30px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #505050;
+    margin: 61px 56px 169px;
+}
+
+#aspas {
+    width: 60.7px;
+    height: 52.8px;
+    position: absolute;
+    right: 64.3px;
+    bottom: 270px;
+}
+
+.azul {
+    width: 540px;
+    height: 204px;
+    background-color: #efc94d;
+    background-image: linear-gradient(249deg, #7180e1 113%, #5866c3 4%);
+    background-position: bottom;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#man {
+    width: 140px;
+    height: 140px;
+    border: solid 5px #ffffff;
+    border-radius: 140px;
+    margin-top: -80px;
+}
+
+#woman {
+    width: 140px;
+    height: 140px;
+    border: solid 5px #ffffff;
+    border-radius: 140px;
+    margin-top: -80px;
+}
+
+.nomes {
+    font-family: 'Rubik';
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 1.5px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 25px;
+    margin-bottom: 6px;
+}
+
+.cargos {
+    font-family: 'Rubik';
+    font-size: 20px;
+    text-align: center;
+    color: #bac3ff;
+    margin-top: 0px;
+}
