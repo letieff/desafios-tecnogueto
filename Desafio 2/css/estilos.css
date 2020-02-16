@@ -1,0 +1,158 @@
+#pagebg {
+    width: 1440px;
+    height: 2024px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    background-color:#f5f7fa;
+}
+
+#testimonialbg {
+    width: 1110px;
+    height: 1631px;
+    float: center;
+    border-radius: 20px;
+    box-shadow: 0 8px 24px 0 #cccc;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ffffff;
+}
+
+
+h1 {
+    font-size: 40px;
+    font-family: 'Rubik';
+    font-weight: 500;
+    color: #373742;
+    text-align: center;
+    padding-top: 112px;
+}
+
+h2 {
+    font-size: 26px;
+    font-family: 'PT Serif';
+    color: #838383;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 1.27;
+    text-align: center;
+    padding-bottom: 81px;
+
+}
+
+
+
+.img-esq {
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+    float: left;
+    display: flex;
+    padding-left: 72px;
+    
+}
+
+.textos {
+    width: 458px;
+    height: 192px;
+    font-family: 'PT Serif', serif;
+    font-size: 32px;
+    color: #373742;
+    text-align: left;
+    float: right;
+    line-height: 1.5;
+    letter-spacing: normal;
+    padding-right: 62px;
+    
+}
+
+.nomes {
+    width: 300px;
+    height: 28px;
+    font-family: 'Rubik';
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.17;
+    text-align: left;
+    color: #373742;
+    padding-right: 62px;
+}
+
+.cargos {
+    width: 300px;
+    height: 24px;
+    font-family: 'Rubik';
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 1.2;
+    color: #838383;
+    padding-right: 62px;
+}
+
+#nome-esq {
+    width: 300px;
+    height: 28px;
+    font-family: 'Rubik';
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.17;
+    text-align: left;
+    color: #373742;
+    
+}
+
+#cargo-esq {
+    width: 300px;
+    height: 24px;
+    font-family: 'Rubik';
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: left;
+    color: #838383;
+    
+}
+
+#img-dir {
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+    float: right;
+    display: flex;
+    padding-right: 62px;
+    
+}
+
+#texto2 {
+    width: 458px;
+    height: 192px;
+    font-family: 'PT Serif', serif;
+    font-size: 32px;
+    color: #373742;
+    text-align: left;
+    float: left;
+    line-height: 1.5;
+    letter-spacing: normal;
+    padding-left: 72px;
+    
+    
+
+}
+
+button {
+    width: 396px;
+    height: 75px;
+    border-radius: 10px;
+    background-color: #f5f6ff;
+    margin-left: auto;
+    margin-right: auto;
+    float: center;
+}
+
+.view-more {
+    text-align: center;
+    color: #5866c3;
+    font-family: 'Rubik';
+    font-size: 22px;
+}
