@@ -4,7 +4,6 @@
     border-radius: 20px;
     margin-left: auto;
     margin-right: auto;
-    
     background-color:#f5f7fa;
 }
 
@@ -18,7 +17,6 @@
     margin-right: auto;
     background-color: #ffffff;
 }
-
 
 h1 {
     font-size: 40px;
@@ -38,7 +36,6 @@ h2 {
     line-height: 1.27;
     text-align: center;
     padding-bottom: 81px;
-
 }
 
 
@@ -50,7 +47,6 @@ h2 {
     float: left;
     display: flex;
     padding-left: 72px;
-    
 }
 
 .textos {
@@ -64,7 +60,6 @@ h2 {
     line-height: 1.5;
     letter-spacing: normal;
     padding-right: 62px;
-    
 }
 
 .nomes {
@@ -99,7 +94,6 @@ h2 {
     line-height: 1.17;
     text-align: left;
     color: #373742;
-    
 }
 
 #cargo-esq {
@@ -111,7 +105,6 @@ h2 {
     line-height: 1.2;
     text-align: left;
     color: #838383;
-    
 }
 
 #img-dir {
@@ -121,7 +114,6 @@ h2 {
     float: right;
     display: flex;
     padding-right: 62px;
-    
 }
 
 #texto2 {
@@ -135,9 +127,6 @@ h2 {
     line-height: 1.5;
     letter-spacing: normal;
     padding-left: 72px;
-    
-    
-
 }
 
 button {
